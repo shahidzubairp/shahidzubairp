@@ -1,6 +1,3 @@
-
-
-
 ## 👋Mohammed Shahid Subair
 ```bash
 ┌──(shahid㉿github)-[~]
