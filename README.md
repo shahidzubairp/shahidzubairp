@@ -1,4 +1,4 @@
-## 👋 Shahid Subair
+## 👋Mohammed Shahid Subair
 
 ```bash
 ┌──(shahid㉿github)-[~]
